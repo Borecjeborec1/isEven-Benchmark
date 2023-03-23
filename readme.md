@@ -1,4 +1,4 @@
-# Results of ways to Check if a Number is Even
+# Results of multiple ways to Check if a Number is Even
 
 ### Introduction
 This is a benchmark of several ways to check if a number is even in JavaScript. The benchmark is based on running each function a million times and measuring the time it takes to complete.
@@ -7,7 +7,7 @@ This is a benchmark of several ways to check if a number is even in JavaScript. 
 Here are the results of the benchmark:
 
 |Function	|Time (ms)|
---- | --- | ---|
+--- | --- | ---
 |isEven1|	13374.717|
 |isEven2|	5.119|
 |isEven3|	4.345|
