@@ -7,7 +7,7 @@ This is a benchmark of several ways to check if a number is even in JavaScript. 
 Here are the results of the benchmark:
 
 |Function	|Time (ms)|
---- | --- | ---
+|--- | --- |
 |isEven1|	13374.717|
 |isEven2|	5.119|
 |isEven3|	4.345|
